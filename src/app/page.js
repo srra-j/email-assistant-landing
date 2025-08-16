@@ -17,7 +17,7 @@ export default function LandingPage() {
           emails, and generates smart replies — saving you time and effort.
         </p>
         <a
-          href="https://github.com/yourusername/email-assistant"
+          href="https://github.com/srra-j/email-assistant-landing"
           target="_blank"
           rel="noreferrer"
           className="bg-blue-600 text-white px-6 py-3 rounded-2xl shadow-md hover:bg-blue-700 transition"
